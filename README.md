@@ -4,7 +4,9 @@ This course is provided within the national higher school of telecommunications 
 telecommunications
 
 Here you can found my solutions of the practical works, which includ :
-* Denoising of a signal by wiener filter
-* Optimal receiver
 * BAYES detector
 * BAYES Detector (Perr, Pfa, Pnd) **VS** SNR
+* Optimal receiver
+* Denoising of a signal by wiener filter
+
+
